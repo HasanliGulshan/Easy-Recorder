@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <CheckBoxPreference
+        android:key="@string/pref_high_quality_key"
+        android:title="@string/pref_high_quality_title"
+        android:summary="@string/pref_high_quality_desc"
+        android:buttonTint="@color/white"/>
+
+    <Preference
+        android:title="This wll be manin color in UI"
+        android:summary="Select what colour you want"
+        android:icon="@drawable/palette"
+        android:key="@string/color"/>
+
+</PreferenceScreen>

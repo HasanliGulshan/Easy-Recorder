@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="cardview_light_background">#FFFFFF</color>
+    <color name="cardview_dark_background">#FFFFFF</color>
+
+    <color name="colorPrimary">#00BCD4</color>
+    <color name="colorPrimaryDark">#0097A7</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="toolbar">#009688</color>
+    <color name="colorMenuBackground">#FFFFFF</color>
+    <color name="colorMenuText">#000000</color>
+    <color name="colorFirstTab">#FFFFFF</color>
+    <color name="colorSecondTab">#B2EBF2</color>
+
+
+    <!--ThemeColors-->
+    <!--red-->
+
+    <color name="red_200_colorPrimaryDark">#ba6b6c</color>
+    <color name="red_200_colorPrimary">#ef9a9a</color>
+    <color name="red_200_colorAccent">#ffcccb</color>
+
+
+
+    <color name="deep_orange_300_colorPrimaryDark">#c75b39</color>
+    <color name="deep_orange_300_colorPrimary">#ff8a65</color>
+    <color name="deep_orange_300_colorAccent">#ffbb93</color>
+
+
+
+    <color name="red_400_colorPrimaryDark">#b61827</color>
+    <color name="red_400_colorPrimary">#ef5350</color>
+    <color name="red_400_colorAccent">#ff867c</color>
+
+
+    <color name="red_700_colorPrimaryDark">#9a0007</color>
+    <color name="red_700_colorPrimary">#d32f2f</color>
+    <color name="red_700_colorAccent">#ff6659</color>
+
+
+
+    <color name="pink_400_colorPrimaryDark">#b4004e</color>
+    <color name="pink_400_colorPrimary">#ec407a</color>
+    <color name="pink_400_colorAccent">#ff77a9</color>
+    <!--
+        <color name="pink_400_textColorPrimary">#FFFFFF</color>
+    -->
+
+
+    <!--blue-->
+    <color name="blue_200_colorPrimaryDark">#5d99c6</color>
+    <color name="blue_200_colorPrimary">#90caf9</color>
+    <color name="blue_200_colorAccent">#c3fdff</color>
+    <!--
+        <color name="blue_200_textColorPrimary">#FFFFFF</color>
+    -->
+
+
+    <color name="cyan_200_colorPrimaryDark">#4bacb8</color>
+    <color name="cyan_200_colorPrimary">#80deea</color>
+    <color name="cyan_200_colorAccent">#b4ffff</color>
+
+
+
+    <color name="cyan_400_colorPrimaryDark">#0095a8</color>
+    <color name="cyan_400_colorPrimary">#26c6da</color>
+    <color name="cyan_400_colorAccent">#6ff9ff</color>
+    <!--<color name="cyan_400_textColorPrimary">#FFFFFF</color>-->
+
+    <color name="cyan_500_colorPrimaryDark">#008ba3</color>
+    <color name="cyan_500_colorPrimary">#00bcd4</color>
+    <color name="cyan_500_colorAccent">#62efff</color>
+    <!--
+        <color name="cyan_500_textColorPrimary">#FFFFFF</color>
+    -->
+
+
+    <color name="blue_500_colorPrimaryDark">#0069c0</color>
+    <color name="blue_500_colorPrimary">#2196f3</color>
+    <color name="blue_500_colorAccent">#6ec6ff</color>
+    <!--
+        <color name="blue_500_textColorPrimary">#FFFFFF</color>
+    -->
+
+
+    <!--green-->
+    <color name="green_200_colorPrimaryDark">#75a478</color>
+    <color name="green_200_colorPrimary">#a5d6a7</color>
+    <color name="green_200_colorAccent">#d7ffd9</color>
+    <!--
+        <color name="green_200_textColorPrimary">#FFFFFF</color>
+    -->
+
+
+    <color name="green_300_colorPrimaryDark">#519657</color>
+    <color name="green_300_colorPrimary">#81c784</color>
+    <color name="green_300_colorAccent">#b2fab4</color>
+    <!--
+        <color name="green_300_textColorPrimary">#FFFFFF</color>
+    -->
+
+
+    <color name="green_400_colorPrimaryDark">#338a3e</color>
+    <color name="green_400_colorPrimary">#66bb6a</color>
+    <color name="green_400_colorAccent">#98ee99</color>
+    <color name="green_400_textColorPrimary">#FFFFFF</color>
+
+
+    <color name="lime_800_colorPrimaryDark">#6c6f00</color>
+    <color name="lime_800_colorPrimary">#9e9d24</color>
+    <color name="lime_800_colorAccent">#d2ce56</color>
+    <!--
+        <color name="lime_800_textColorPrimary">#FFFFFF</color>
+    -->
+
+
+    <color name="brown_200_colorPrimaryDark">#8c7b75</color>
+    <color name="brown_200_colorPrimary">#bcaaa4</color>
+    <color name="brown_200_colorAccent">#efdcd5</color>
+    <!--
+        <color name="brown_200_textColorPrimary">#FFFFFF</color>
+    -->
+
+
+    <!--set colors for ColorPicker-->
+
+    <array name="colors">
+
+        <item>@color/red_200_colorPrimaryDark</item>
+        <item>@color/deep_orange_300_colorPrimaryDark</item>
+        <item>@color/red_400_colorPrimaryDark</item>
+        <item>@color/red_700_colorPrimaryDark</item>
+        <item>@color/pink_400_colorPrimaryDark</item>
+        <item>@color/blue_200_colorPrimaryDark</item>
+        <item>@color/cyan_200_colorPrimaryDark</item>
+        <item>@color/cyan_400_colorPrimaryDark</item>
+        <item>@color/cyan_500_colorPrimaryDark</item>
+        <item>@color/blue_500_colorPrimaryDark</item>
+        <item>@color/green_200_colorPrimaryDark</item>
+        <item>@color/green_300_colorPrimaryDark</item>
+        <item>@color/green_400_colorPrimaryDark</item>
+        <item>@color/lime_800_colorPrimaryDark</item>
+        <item>@color/brown_200_colorPrimaryDark</item>
+
+    </array>
+
+</resources>
